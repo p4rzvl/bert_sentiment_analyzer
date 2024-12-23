@@ -1,0 +1,10 @@
+{
+    "BERT_MODEL": "bert-base-cased",
+    "PRE_TRAINED_MODEL": "assets/best_model_state8350.bin",
+    "CLASS_NAMES": [
+        "Negative",
+        "Neutral",
+        "Positive"
+    ],
+    "MAX_SEQUENCE_LEN": 160
+}
