@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+black==19.10b0
+isort
+flake8
+gdown
+numpy<2
