@@ -1,0 +1,2 @@
+assets/best_model_state8350.bin filter=lfs diff=lfs merge=lfs -text
+assets/*.bin filter=lfs diff=lfs merge=lfs -text
